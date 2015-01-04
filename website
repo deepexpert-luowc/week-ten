@@ -1,0 +1,307 @@
+index.html
+========================
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="keywords" contents="科研小组">
+</head>
+<body bgcolor="#d0d0d0">
+<div>
+<h1 align="center">机器学习小组</h1>
+  <center>
+    <img src="2.jpg" alt="picture"  height=500,height=200  align="center" />
+    <h2>苏州大学机器学习小组 </h2>
+
+    <h3> <a href="teacher.html">老师简介</a>
+    <a href="students.html">组内成员的简介</a>
+    <a href="event.html">课题组活动</a>
+    <a href="source.html">成果与资源</a> </h3>
+  </center>
+</div>
+<div>
+  <li><h2>机器学习的简介</h2></li><br/>
+   <p>机器学习(Machine Learning, ML)是一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。专门研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。</p>
+    <p>它是人工智能的核心，是使计算机具有智能的根本途径，其应用遍及人工智能的各个领域，它主要使用归纳、综合而不是演绎。</p>
+</div>
+</body>
+</html>
+=============================================================
+login.html
+===================================
+<!DOCTYPE html>
+<html>
+<link href="luo.css" rel="stylesheet" type="text/css">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+ <link rel="stylesheet" href="luo.css" type="text/css" />
+</head>
+<body background="ab.jpg">
+<div  class="navigation">
+<form method='post'>
+username:<input type="text" name="username"/><br/>
+password:<input type="password" name=" password "/><br/>
+<input type="radio" checked="checked" name="character" value="editor" />
+管理者<br/>
+<input type="radio" name="character" value="student" />
+课题组成员<br/>
+<input type="radio" name="character" value="adder" />
+内容添加者<br/>
+<input type="radio" name="character" value="tourist" />
+普通浏览者<br/>
+<input type="submit" value="login"  />
+
+</form>
+ </div>
+
+</body>
+</html>
+=============================
+teacher.html
+===========================================
+<!DOCTYPE html>
+<html>
+<link href="blei.css" rel="stylesheet" type="text/css">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="keywords" contents="老师介绍">
+<link rel="stylesheet" href="blei.css" type="text/css" />
+</head>
+<body>
+<div class="navigation">
+  <center>
+    <img src="teacher.jpg" alt="picture"  height=200,  align="center" />
+    <h2> 严建峰 </h2>
+  </center>
+  <p>
+      <center>
+   1957年10月2日出生 <br>
+   苏州大学博士生导师 <br>
+    副教授 <br>
+    机器学习实验室导师 <br>
+     </A><br>
+    </center>
+    </p>
+</div>
+
+<div class="content">
+
+ <style type="text/css">
+            dl.bib2xhtml dd { padding-bottom: 1em }
+       </style>
+
+       <style type="text/css">
+            ul.bib2xhtml li { padding-bottom: 1.5em }
+       </style>
+
+<div class="content">
+<h1>个人简介</h1>
+<ul class= "bib2xhtml">
+<li> 严建峰，苏州大学的一名老师，博士生，副教授，从事机器学习方面的研究，是苏州大学机器学习小组的指导老师。</li></ul>
+  <a href="english.html">英文查看</a>
+<h1>项目列表</h1>
+<ul class= "bib2xhtml">
+<li>动态旅游轨迹生成，人工智能应用，智能化的应用</li></ul>
+    <a href="english.html">英文查看</a>
+<h1>论文列表</h1>
+<ul class= "bib2xhtml">
+<li>此处罗列老师发表的论文</li></ul>
+    <a href="english.html">英文查看</a>
+<h1>专利列表</h1>
+<ul class= "bib2xhtml">
+<li>此处罗列老师申请的专利的名称项目</li></ul>
+    <a href="english.html">英文查看</a>
+</div>
+ </div>
+</body>
+</html>
+=============================================================
+students.html
+====================
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<h1 align=center>机器学习小组的成员介绍</h1>
+<style type="text/css">
+div#content {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#uu {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#men {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#xx {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#men {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#aa{background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#bb {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#cc {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#dd {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#ee {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#ff {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#hh {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#ii {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#jj {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#kk {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#ll {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#mm {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#nn {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#pp {background-color:#ffff99;height:350px;width:200px;float:left;}
+div#qq {background-color:#FFFFFF;height:350px;width:30px;float:left;}
+div#rr {background-color:#ffff99;height:350px;width:200px;float:left;}
+</style>
+<body>
+<div id=content>
+<img src="4.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">高阳</a></p>
+  <p align="center">女，23岁</p>
+  <p align="center">研究生</p>
+</div>
+<div id= uu>
+<p></p>
+</div>
+<div id=men>
+<img src="11.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">姚婷婷</a></p>
+  <p align="center">女，21岁</p>
+  <p align="center">研究生</p>
+</div>
+<div id=xx>
+<p></p>
+</div>
+<div id=bb>
+<img src="8.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">闻东堤</a></p>
+     <p align="center">男，20岁</p>
+  <p align="center">大二学生</p>
+</div>
+<div id=cc>
+<p></p>
+</div>
+<div id=dd>
+<img src="10.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">陈凯</a></p>
+     <p align="center">男，20岁</p>
+  <p align="center">大二学生</p>
+</div>
+<div id=ee>
+<p></p>
+</div>
+<div id=ff>
+<img src="7.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">何方腾</a></p>
+     <p align="center">男，20岁</p>
+  <p align="center">大二学生</p>
+</div>
+<div id=hh>
+<p></p>
+</div>
+<div id=ii>
+<img src="6.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">罗为成</a></p>
+     <p align="center">男，20岁</p>
+  <p align="center">大二学生</p>
+</div>
+<div id=jj>
+<p></p>
+</div>
+<div id=kk>
+<img src="5.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">沈静</a></p>
+ <p align="center">男，20岁</p>
+ <p align="center">大二学生</p>
+</div>
+<div id=ll>
+<p></p>
+</div>
+<div id=mm>
+<img src="9.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">梅涛</a></p>
+ <p align="center">男，20岁</p>
+ <p align="center">大二学生</p>
+</div>
+<div id=nn>
+<p></p>
+</div>
+<div id=pp>
+<img src="10.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">陈隆</a></p>
+ <p align="center">男，20岁</p>
+ <p align="center">大二学生</p>
+</div>
+<div id=qq>
+<p></p>
+</div>
+<div id=rr>
+<img src="12.jpg" alt="picture"  height=230, width=200, align="center" />
+<p align=center><a href="">曹经纬</a></p>
+ <p align="center">男，20岁</p>
+ <p align="center">大二学生</p>
+</div>
+</body>
+
+</body>
+</html>
+============================================================================
+event.html
+=======================
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<style type="text/css">
+  div#content{height:300px;float;left;}
+  div#uu {background-color:#C0C0C0;height:230px;width:30px;float:left;}
+  div#aa{background-color:#C0C0C0;height:230px;width:30px;float:left;}
+  div#bb {background-color:#C0C0C0;height:230px;width:30px;float:left;}
+  div#cc{background-color:#C0C0C0;height:230px;width:30px;float:left;}
+  div#dd {background-color:#C0C0C0;height:230px;width:30px;float:left;}
+    </style>
+<body background="ab.jpg">
+<div id="content">
+<h1>讨论会的照片记录</h1>
+<P>
+<img src="a.jpg" alt="picture"  height=230, width=200, align="left" />
+<div id= uu>
+<p></p>
+</div>
+<img src="b.jpg" alt="picture"  height=230, width=200, align="left" />
+<div id= aa>
+<p></p>
+ </div>
+<img src="b.png" alt="picture"  height=230, width=200, align="left" />
+<div id= bb>
+<p></p>
+ </div>
+<img src="c.png" alt="picture"  height=230, width=200, align="left" />
+<div id= cc>
+<p></p>
+ </div>
+<img src="d.jpg" alt="picture"  height=230, width=200, align="left" />
+<div id= dd>
+<p></p>
+ </div>
+ </div>
+<div>
+<h1>会议日志</h1>
+    <p>读了白马 的 机器学习入门者学习指南，感觉写得非常到位。在不少论坛上，包括知乎，Quora上都看到类似的问题，而解答通常就是推荐几门课、几本书。虽然也都是好东西，可是展示学习过程的攻略却始终没有白马一文中描写地透彻，而且有些答案更是针对码农而非在校生。有感而发，就根据自己手上的一些收藏整理了一个不完全资源汇总。下面列几个要点，全文看这里 http://ml.memect.com/article/machine-learning-guide.html
+
+1. 基本概念找了几张图，从微观到宏观展示机器学习的范畴：具体算法，进一步细分，应用场景，以及与其他领域的关系。
+
+2. 学习攻略大致三类：原则体悟，实战笔记，行家导读
+
+3. 课程资源： 首推Tom Mitchell （2011）和 Andrew Ng（2014） 的课。Ng网易公开课用的是2008版,有人担心过时了。
+
+4. 论坛网站：竟然相当少，本小组还算比较活跃呢
+
+5. 东拉西扯：一些有意思的东西，不太适合入门但略有小成后值得一览
+
+最后，个人观点总是“不完全”的，只能算抛砖引玉。希望大家帮忙提提意见，补充指正。</p>
+</div>
+
+</body>
+</html>
+======================================================
